@@ -7,6 +7,6 @@
 <body>
 <h1><%= "Hello World!" %></h1>
 <br/>
-<a href="characters">Hello Servlet</a>
+  <a href="characters">String to characters:</a>
 </body>
 </html>
